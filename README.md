@@ -2,6 +2,6 @@
 
 ## git project
 
-<p> from git to github</p>
+from git to github
 
 > first step
